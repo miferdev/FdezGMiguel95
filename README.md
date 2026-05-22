@@ -1,9 +1,8 @@
 # 💫 About Me:
 **Desarrollador Web (Prácticas / FCT)**
 
-- Desarrollo y mantenimiento de aplicaciones web utilizando [Tecnología A] y [Tecnología B].
+- Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías como Spring o Angular.
 - Colaboración en equipo utilizando metodologías ágiles (Scrum) y control de versiones con Git.
-- Resolución de bugs y optimización del rendimiento frontend/backend.
 
 #### Actualmente estoy creando un scrapper con tecnologías de java.
 
