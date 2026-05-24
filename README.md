@@ -4,8 +4,6 @@
 - Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías como Spring o Angular.
 - Colaboración en equipo utilizando metodologías ágiles (Scrum) y control de versiones con Git.
 
-#### Actualmente estoy creando un scrapper con tecnologías de java.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-fern%C3%A1ndez-guerrero/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fdezguerrerom@gmail.com) 
 
